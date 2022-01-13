@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "pwa-chrome",
+            "name": "vscode://vscode.github-authentication/did-authenticate?windowid=1&code=9a605936c9e13ef04119&state=771af24f-55b2-4a27-93eb-01ac77cded5c",
+            "request": "launch",
+            "url": "vscode://vscode.github-authentication/did-authenticate?windowid=1&code=9a605936c9e13ef04119&state=771af24f-55b2-4a27-93eb-01ac77cded5c"
+        }
+    ]
+}
